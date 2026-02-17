@@ -1,5 +1,11 @@
-<h1 align="center">My name is Ilia</h1>
-<h3 align="center">Innopolis University student.</h3>
+<h1 align="center">My name is Ilia 😎</h1>
+
+## 🤓 Innopolis University student:
+1st year bachelor. Currently studying base of programming and higher mathematics:
+ - Analytical Geometry and Linear Algebra
+ - Data Structures and Algorithms
+ - Mathematical Analysis
+ - Software System Analysis and Design
 
 ## 🌐 Contact me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:i.shchetkov@innopolis.university) 
